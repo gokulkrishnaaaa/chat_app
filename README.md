@@ -8,6 +8,6 @@ Features:
   
   Simple and clean UI built with Bootstrap
   
-  Displays messages from both users with timestamps
+  Displays messages from both users
   
   Local development setup for running the chat server
